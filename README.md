@@ -11,6 +11,7 @@
 
 For writing our software to the ESP32, I used PlatformIO. Documentation and installation requirements can be found here: https://platformio.org/platformio-ide
 
+Main function can be found in src/main.cpp
 
 *Hardware:*
   1. [ESP-WROOM-32](https://www.amazon.com/dp/B0DSZTZKLM?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1)
