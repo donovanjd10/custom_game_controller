@@ -19,3 +19,6 @@ Main function can be found in src/main.cpp
   3. Dupont wires
   4. USBC-USBC, or USBA-USBC (depends on your system, ESP needs USB-C)
 
+
+
+To be continued...
