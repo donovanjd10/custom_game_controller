@@ -28,7 +28,7 @@ const int OFF = 0;
 const int ON = 1;
 
 int fps_to_fpms(int frames_per_sec) {
-  const float fpms = frames_per_sec * (1 / 1000);
+  const float fpms = frames_per_sec * (1.0 / 1000.0);
   return ceil(fpms);
 }
 
